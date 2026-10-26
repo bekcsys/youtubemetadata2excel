@@ -2,7 +2,8 @@
 
 A simple YouTube metadata ingestion tool that extracts video metadata from a YouTube channel and exports it to an Excel spreadsheet. Simply paste a YouTube channel URL to retrieve the channel's videos and export the results.
 
-![YouTube Metadata Exporter](YME.png)
+![YouTube Metadata Exporter](docs/YME.png)
+![Excel](docs/excel.png)
 
 ### Exported Fields
 
